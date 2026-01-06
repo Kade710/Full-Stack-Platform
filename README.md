@@ -1,16 +1,12 @@
-# Full-Stack Platform
+# Full Stack Platform – V1 (Archived)
 
-Production-ready full-stack platform built with React, Node.js, Nginx, PostgreSQL, Redis, and Docker Compose.
+This repository represents an earlier iteration of my full-stack work.
 
-## Architecture
-Browser - Nginx - Node API - PostgreSQL / Redis
+**Active version (V2):**
+https://github.com/<Kade710>/<Full-stack-platform-v2>
 
-## Services
-- Frontend: React (static build)
-- Backend: Node.js HTTP API
-- Reverse Proxy: Nginx
-- Database: PostgreSQL
-- Cache: Redis
+Tech used here:
+- Early Docker experiments
+- Initial API structure
+- Learning-phase architecture
 
-## Status
-Stable-V1 — verified working
