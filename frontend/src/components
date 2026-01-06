@@ -1,1 +1,8 @@
+frontend/
+  src/
+   App.jsx
+    main.jsx
+    components/
+       ApiStatus.jsx
+       HitCounter.jsx
 
